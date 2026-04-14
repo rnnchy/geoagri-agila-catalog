@@ -338,7 +338,7 @@
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Altavas",
+          "name": "Anini-Y",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -349,13 +349,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Altavas'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Anini-Y'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Balete",
+          "name": "Barbaza",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -366,13 +366,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Balete'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Barbaza'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Banga",
+          "name": "Belison",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -383,13 +383,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Banga'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Belison'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Batan",
+          "name": "Bugasong",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -400,13 +400,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Batan'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Bugasong'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Buruanga",
+          "name": "Caluya",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -417,13 +417,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Buruanga'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Caluya'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Ibajay",
+          "name": "Culasi",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -434,13 +434,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Ibajay'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Culasi'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Kalibo",
+          "name": "Hamtic",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -451,13 +451,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Kalibo'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Hamtic'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Lezo",
+          "name": "Laua-An",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -468,13 +468,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Lezo'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Laua-An'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Libacao",
+          "name": "Libertad",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -485,13 +485,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Libacao'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Libertad'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Madalag",
+          "name": "Pandan",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -502,13 +502,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Madalag'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Pandan'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Makato",
+          "name": "Patnongon",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -519,13 +519,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Makato'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Patnongon'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Malay",
+          "name": "San Jose",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -536,13 +536,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Malay'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'San Jose'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Malinao",
+          "name": "San Remigio",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -553,13 +553,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Malinao'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'San Remigio'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Nabas",
+          "name": "Sebaste",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -570,13 +570,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Nabas'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Sebaste'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "New Washington",
+          "name": "Sibalom",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -587,13 +587,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'New Washington'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Sibalom'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Numancia",
+          "name": "Tibiao",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -604,13 +604,13 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Numancia'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Tibiao'"
           }
         },
         {
           "description": "Data is from LGU Proponent",
           "type": "wms",
-          "name": "Tangalan",
+          "name": "Tobias Fornier",
           "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
           "layers": "geoagri:fmr_profile_flip",
           "hideDefaultDescription": true,
@@ -621,7 +621,24 @@
           "parameters": {
             "transparent": "true",
             "format": "image/png",
-            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Tangalan'"
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Tobias Fornier'"
+          }
+        },
+        {
+          "description": "Data is from LGU Proponent",
+          "type": "wms",
+          "name": "Valderrama",
+          "url": "https://geoserver.bafe.gov.ph/geoserver/ows",
+          "layers": "geoagri:fmr_profile_flip",
+          "hideDefaultDescription": true,
+          "hideSource": true,
+          "tileErrorHandlingOptions": {
+            "ignoreUnknownTileErrors": true
+          },
+          "parameters": {
+            "transparent": "true",
+            "format": "image/png",
+            "cql_filter": "reg_short_name = 'Region VI' AND province = 'Antique' AND municipality = 'Valderrama'"
           }
         }
       ]
